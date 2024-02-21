@@ -1,11 +1,14 @@
-- name: University of Washington 
+- name: Massachusetts Institute of Technology 
   description: >-
-    Ph. D in Computer Science, advised by <a href="https://smseitz.com">Steven M. Seitz</a> and
-    <a href="https://homes.cs.washington.edu/~ali/">Ali Farhadi</a>.<br />
-    Supported by Samsung Scholarship 2015-2020 ($50,000/year for 5 years)
-  dates: Fall 2015 - Spring 2022
+    S.M at Media Lab, advised by <a href="https://www.media.mit.edu/people/raskar/overview/">Ramesh Raskar</a>.<br />
+  dates: Fall 2022 - Spring 2024
 
-- name: University of Illinois at Urbana-Champaign
+- name: National Taiwan University
   description: >-
-    B.S. in Computer Science, advised by <a href="https://dhoiem.cs.illinois.edu/">Derek Hoiem</a>.
-  dates: Fall 2009 - Spring 2013
+    M.S in Computer Science and Information Engineering, advised by <a href="https://sites.google.com/site/chiehchihbobwang">Chieh-Chih (Bob) Wang</a>.<br />
+  dates: Fall 2011 - Spring 2013
+
+- name: UC San Diego
+  description: >-
+    B.S. in Computer Science.
+  dates: Fall 2005 - Spring 2010
